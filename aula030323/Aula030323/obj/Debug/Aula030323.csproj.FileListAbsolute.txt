@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\bin\Debug\Aula030323.exe.config
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\bin\Debug\Aula030323.exe
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\bin\Debug\Aula030323.pdb
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\obj\Debug\Aula030323.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\obj\Debug\Aula030323.FormPersonagens.resources
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\obj\Debug\Aula030323.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\obj\Debug\Aula030323.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\obj\Debug\Aula030323.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\obj\Debug\Aula030323.exe
+C:\Users\Laboratorio-Info\source\repos\aula030323\Aula030323\obj\Debug\Aula030323.pdb

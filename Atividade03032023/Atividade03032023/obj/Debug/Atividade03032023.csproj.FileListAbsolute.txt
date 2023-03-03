@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\bin\Debug\Atividade03032023.exe.config
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\bin\Debug\Atividade03032023.exe
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\bin\Debug\Atividade03032023.pdb
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\obj\Debug\Atividade03032023.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\obj\Debug\Atividade03032023.FormPersonagens.resources
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\obj\Debug\Atividade03032023.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\obj\Debug\Atividade03032023.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\obj\Debug\Atividade03032023.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\obj\Debug\Atividade03032023.exe
+C:\Users\Laboratorio-Info\source\repos\Atividade03032023\Atividade03032023\obj\Debug\Atividade03032023.pdb
